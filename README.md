@@ -3,5 +3,5 @@
 
 Demos
 ------
-  * [Пример](https://github.com/OriginalSin/ReactUseWithGMXPluginTimeline/build/index.html).
+  * [Пример](https://originalsin.github.io/ReactUseWithGMXPluginTimeline/build/index.html).
 
