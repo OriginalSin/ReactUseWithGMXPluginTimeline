@@ -1,0 +1,12 @@
+.Map, #map {
+	height: 100%;
+	margin: 0px;
+}
+.Nav {
+    position: absolute;
+    top: 20px;
+    right: 220px;
+}
+.gmxTimeline .leaflet-gmx-iconSvg {
+    top: 0px;
+}
